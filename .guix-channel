@@ -1,0 +1,6 @@
+;; This is a Guix channel.
+
+(channel
+  (version 0)
+  (keyring-reference "keyring")
+  (url "https://github.com/benoitj/my-guix-channel.git")) ;the primary URL
